@@ -116,7 +116,7 @@ if (typeof executed === 'undefined') {
 
     var textBox1 = document.createElement("input");
     textBox1.type = "text";
-    textBox1.placeholder = "Temporary Redirect";
+    textBox1.placeholder = "Write the URL";
     textBox1.style.display = "block";
     textBox1.style.margin = "10px auto";
     textBox1.style.width = "80vw";
